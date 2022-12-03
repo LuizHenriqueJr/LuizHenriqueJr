@@ -1,7 +1,6 @@
 ## Sejam Bem-vindos Devs, Luiz Henrique aqui!
 
 <div>
-  
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" width="520em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueJr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
