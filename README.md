@@ -30,5 +30,3 @@
         <img width="25" src="https://user-images.githubusercontent.com/111657322/205451595-a501b762-e3cc-4c0a-b220-471ad1de2058.svg">
       </a>
 </div>
-  
-![Snake animation](https://github.com/LuizHenriqueJr/LuizHenriqueJr/blob/output/github-contribution-grid-snake.svg)
