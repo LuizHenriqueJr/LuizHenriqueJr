@@ -21,12 +21,12 @@
   
   <h1 align="center">Redes Sociais</h1>
       <a href = "mailto: luizhenriquejr0699amz@hotmail.com" target="_blank">
-        <img width="30" src="https://user-images.githubusercontent.com/111657322/205451781-7a943ce2-e7f6-4724-aba6-2276bb8990aa.svg">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
       </a>
       <a href = "https://www.linkedin.com/in/luiz-henrique-junior-89395a24b/" target="_blank">
-        <img width="25" src="https://user-images.githubusercontent.com/111657322/205451777-a82e6309-43f5-4afd-babf-4370232730e6.svg">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
       <a href = "https://www.instagram.com/juninhodevjr/" target="_blank">
-        <img width="25" src="https://user-images.githubusercontent.com/111657322/205451595-a501b762-e3cc-4c0a-b220-471ad1de2058.svg">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
 </div>
