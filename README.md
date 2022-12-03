@@ -1,4 +1,4 @@
-## Sejam Bem-vindos Devs, Me chamo Luiz Henrique!
+## Sejam Bem-vindos Devs, Luiz Henrique aqui!
 
 <div>
   
@@ -10,30 +10,26 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <h1 align="center">Minhas Tecnologias</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="sass-icon" src="https://user-images.githubusercontent.com/111657322/205451413-210c5bc3-38ac-400f-8106-4bc5a850647d.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="35" width="40" alt="java-icon"  src="https://user-images.githubusercontent.com/111657322/205449001-cae8330b-8590-4641-a279-aeb9833700ac.svg">
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+      <a href = "mailto: luizhenriquejr0699amz@hotmail.com" target="_blank">
+        <img width="30" src="https://user-images.githubusercontent.com/111657322/205451781-7a943ce2-e7f6-4724-aba6-2276bb8990aa.svg">
+      </a>
+      <a href = "https://www.linkedin.com/in/luiz-henrique-junior-89395a24b/" target="_blank">
+        <img width="25" src="https://user-images.githubusercontent.com/111657322/205451777-a82e6309-43f5-4afd-babf-4370232730e6.svg">
+      </a>
+      <a href = "https://www.instagram.com/juninhodevjr/" target="_blank">
+        <img width="25" src="https://user-images.githubusercontent.com/111657322/205451595-a501b762-e3cc-4c0a-b220-471ad1de2058.svg">
+      </a>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
