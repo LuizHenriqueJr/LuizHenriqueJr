@@ -35,6 +35,7 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 </div>
 
 <br>
+<br>
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
