@@ -1,6 +1,6 @@
 ## Sejam Bem-vindos Devs, Luiz Henrique aqui!
 
-Prazer! Meu nome é Luiz Henrique e tenho uma paixão imensurável por tecnologia. Estou em transição de carreira para há area de TI desde 2022 e me estou empenhado em me tornar um desenvolvedor Full Stack JavaScript.
+Prazer! Meu nome é Luiz Henrique e tenho uma paixão imensurável por tecnologia. Estou em transição de carreira para há area de TI desde 2022 e estou empenhado em me tornar um desenvolvedor Full Stack JavaScript.
 
 Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja desenvolvi. Sinta-se livre para fazer pull requests e abrir issues quando quiser, será uma honra poder conversar com você!
 
