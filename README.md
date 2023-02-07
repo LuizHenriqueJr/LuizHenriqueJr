@@ -9,12 +9,6 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 - 📚 Sou um completo entusiasta na aprendizagem de novas tecnologias.
 - 📌 Focado na stack ReactJS, TypeScript e NodeJS.
 
-
-
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueJr&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 <br>
 
 <div  align="center"> 
@@ -28,8 +22,6 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="35" width="40" alt="java-icon"  src="https://user-images.githubusercontent.com/111657322/205449001-cae8330b-8590-4641-a279-aeb9833700ac.svg">
    </div>
-    
-  
   <h1 align="center">Redes Sociais</h1>
       <a href = "mailto: luizhenriquejr0699amz@hotmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
@@ -41,5 +33,14 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
 </div>
+
+<br>
+
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueJr&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<br>
 
 ![Snake animation](https://github.com/LuizHenriqueJr/LuizHenriqueJr/blob/output/github-contribution-grid-snake.svg)
