@@ -9,6 +9,8 @@ Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja
 - 📚 Sou um completo entusiasta na aprendizagem de novas tecnologias.
 - 📌 Focado na stack ReactJS, TypeScript e NodeJS.
 
+
+
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueJr&layout=compact&langs_count=16&theme=dracula"/>
